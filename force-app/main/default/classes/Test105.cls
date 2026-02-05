@@ -1,6 +1,6 @@
-public class Test103 {
+public class Test105 {
     // A static method that can be called without instantiating the class
     public static void sayHello() {
-        System.debug('Hello World10333!');
+        System.debug('Hello World105!');
     }
 }
